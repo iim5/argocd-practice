@@ -1,1 +1,1 @@
-# argocd-practic
+# argocd-practice
